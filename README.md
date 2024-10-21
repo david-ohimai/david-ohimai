@@ -12,9 +12,9 @@
 
 
 ![Github
-Stats](https://github-readme-stats.vercel.app/api?username=daveohi&count_private=true&show_icons=true&include_all_commits=true)
+Stats](https://github-readme-stats.vercel.app/api?username=david-ohimai&count_private=true&show_icons=true&include_all_commits=true)
 ![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daveohi&hide=TeX&layout=compact)
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-ohimai&hide=TeX&layout=compact)
 
 <h3 align="center">⚡Connect With Me On</h3>
 <p align="center">
