@@ -28,7 +28,6 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daveohi&hi
       alt="LinkedIn"
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
   /></a>
- 
   <a href="https://wa.me/+2347059752426"
     ><img
       alt="WhatsApp"
